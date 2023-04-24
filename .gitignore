@@ -38,4 +38,4 @@ next-env.d.ts
 
 # keys
 
-serviceAccountKey.json
+./serviceAccountKey.json
